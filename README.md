@@ -1,6 +1,4 @@
 # Hello World Project
-a
-
 ## Author Info
 Author: Kaleo
 Contact: kaleom@uoregon.edu
