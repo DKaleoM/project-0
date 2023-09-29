@@ -6,8 +6,9 @@
 # Instruct the installer to copy your credentials to the
 # appropriate location.
 
+#Alex Chen said I was allowed to remove the comment under install
+
 install:
-	# Nothing installed
 	@(cp credentials.ini hello/credentials.ini)
 
 run:
